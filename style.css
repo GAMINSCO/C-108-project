@@ -1,0 +1,68 @@
+body {
+    font-family: 'Akaya Telivigala', cursive;
+    background: #ffddd2;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+
+.header_div {
+    background-color: #a9def9;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+}
+
+#start {
+    height: 45px;
+    width: 42%;
+    background-color: #fcf6bd;
+    color: #000000d7;
+    font-size: 26px;
+    border-width: 1px;
+    border-color: #270b02;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: solid;
+}
+
+.hr1 {
+    width: 99%;
+    height: 2px;
+    background-color: black;
+}
+
+.hr2 {
+    width: 35%;
+    height: 2px;
+    background-color: black;
+}
+
+h2 {
+    font-weight: 400;
+}
+
+.p1 {
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+#lion, #cat, #cow, #dog {
+    font-size: 22px;
+}
